@@ -10,7 +10,7 @@ package email;
  */
   
 import java.util.Scanner;
-  
+  n
 public class Email {
     public String send;
     public String sub;
